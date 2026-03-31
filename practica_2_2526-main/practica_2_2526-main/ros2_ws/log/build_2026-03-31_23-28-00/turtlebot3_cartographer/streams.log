@@ -1,0 +1,45 @@
+[0.033s] Invoking command in '/workspace/practica_2/ros2_ws/build/turtlebot3_cartographer': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /workspace/practica_2/ros2_ws/src/turtlebot3/turtlebot3_cartographer -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/workspace/practica_2/ros2_ws/install/turtlebot3_cartographer
+[0.260s] -- The C compiler identification is GNU 11.4.0
+[0.387s] -- The CXX compiler identification is GNU 11.4.0
+[0.404s] -- Detecting C compiler ABI info
+[0.489s] -- Detecting C compiler ABI info - done
+[0.495s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.496s] -- Detecting C compile features
+[0.497s] -- Detecting C compile features - done
+[0.502s] -- Detecting CXX compiler ABI info
+[0.581s] -- Detecting CXX compiler ABI info - done
+[0.589s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.590s] -- Detecting CXX compile features
+[0.590s] -- Detecting CXX compile features - done
+[0.604s] -- Found ament_cmake: 1.3.14 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.750s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.824s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.960s] -- Configuring done
+[0.965s] -- Generating done
+[0.967s] -- Build files have been written to: /workspace/practica_2/ros2_ws/build/turtlebot3_cartographer
+[0.978s] Invoked command in '/workspace/practica_2/ros2_ws/build/turtlebot3_cartographer' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /workspace/practica_2/ros2_ws/src/turtlebot3/turtlebot3_cartographer -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/workspace/practica_2/ros2_ws/install/turtlebot3_cartographer
+[0.979s] Invoking command in '/workspace/practica_2/ros2_ws/build/turtlebot3_cartographer': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /workspace/practica_2/ros2_ws/build/turtlebot3_cartographer -- -j16 -l16
+[1.026s] Invoked command in '/workspace/practica_2/ros2_ws/build/turtlebot3_cartographer' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /workspace/practica_2/ros2_ws/build/turtlebot3_cartographer -- -j16 -l16
+[1.026s] Invoking command in '/workspace/practica_2/ros2_ws/build/turtlebot3_cartographer': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /workspace/practica_2/ros2_ws/build/turtlebot3_cartographer
+[1.033s] -- Install configuration: ""
+[1.033s] -- Execute custom install script
+[1.034s] -- Symlinking: /workspace/practica_2/ros2_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/config/turtlebot3_lds_2d.lua
+[1.042s] -- Symlinking: /workspace/practica_2/ros2_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/launch/cartographer.launch.py
+[1.050s] -- Symlinking: /workspace/practica_2/ros2_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/launch/occupancy_grid.launch.py
+[1.058s] -- Symlinking: /workspace/practica_2/ros2_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/rviz/tb3_cartographer.rviz
+[1.067s] -- Symlinking: /workspace/practica_2/ros2_ws/install/turtlebot3_cartographer/share/ament_index/resource_index/package_run_dependencies/turtlebot3_cartographer
+[1.078s] -- Symlinking: /workspace/practica_2/ros2_ws/install/turtlebot3_cartographer/share/ament_index/resource_index/parent_prefix_path/turtlebot3_cartographer
+[1.085s] -- Symlinking: /workspace/practica_2/ros2_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/environment/ament_prefix_path.sh
+[1.092s] -- Symlinking: /workspace/practica_2/ros2_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/environment/ament_prefix_path.dsv
+[1.101s] -- Symlinking: /workspace/practica_2/ros2_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/environment/path.sh
+[1.109s] -- Symlinking: /workspace/practica_2/ros2_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/environment/path.dsv
+[1.117s] -- Symlinking: /workspace/practica_2/ros2_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/local_setup.bash
+[1.125s] -- Symlinking: /workspace/practica_2/ros2_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/local_setup.sh
+[1.134s] -- Symlinking: /workspace/practica_2/ros2_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/local_setup.zsh
+[1.142s] -- Symlinking: /workspace/practica_2/ros2_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/local_setup.dsv
+[1.151s] -- Symlinking: /workspace/practica_2/ros2_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/package.dsv
+[1.158s] -- Symlinking: /workspace/practica_2/ros2_ws/install/turtlebot3_cartographer/share/ament_index/resource_index/packages/turtlebot3_cartographer
+[1.166s] -- Symlinking: /workspace/practica_2/ros2_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/cmake/turtlebot3_cartographerConfig.cmake
+[1.174s] -- Symlinking: /workspace/practica_2/ros2_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/cmake/turtlebot3_cartographerConfig-version.cmake
+[1.183s] -- Symlinking: /workspace/practica_2/ros2_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/package.xml
+[1.193s] Invoked command in '/workspace/practica_2/ros2_ws/build/turtlebot3_cartographer' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /workspace/practica_2/ros2_ws/build/turtlebot3_cartographer

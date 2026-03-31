@@ -1,0 +1,53 @@
+[0.000000] (-) TimerEvent: {}
+[0.000400] (-) JobUnselected: {'identifier': 'turtlebot3'}
+[0.000437] (-) JobUnselected: {'identifier': 'turtlebot3_bringup'}
+[0.000482] (-) JobUnselected: {'identifier': 'turtlebot3_cartographer'}
+[0.000512] (-) JobUnselected: {'identifier': 'turtlebot3_description'}
+[0.000542] (-) JobUnselected: {'identifier': 'turtlebot3_example'}
+[0.000572] (-) JobUnselected: {'identifier': 'turtlebot3_fake_node'}
+[0.000601] (-) JobUnselected: {'identifier': 'turtlebot3_gazebo'}
+[0.000612] (-) JobUnselected: {'identifier': 'turtlebot3_manipulation_gazebo'}
+[0.000621] (-) JobUnselected: {'identifier': 'turtlebot3_msgs'}
+[0.000629] (-) JobUnselected: {'identifier': 'turtlebot3_navigation2'}
+[0.000637] (-) JobUnselected: {'identifier': 'turtlebot3_node'}
+[0.000645] (-) JobUnselected: {'identifier': 'turtlebot3_simulations'}
+[0.000653] (-) JobUnselected: {'identifier': 'turtlebot3_teleop'}
+[0.000665] (p3_pkg) JobQueued: {'identifier': 'p3_pkg', 'dependencies': OrderedDict()}
+[0.001292] (p3_pkg) JobStarted: {'identifier': 'p3_pkg'}
+[0.100008] (-) TimerEvent: {}
+[0.200186] (-) TimerEvent: {}
+[0.300361] (-) TimerEvent: {}
+[0.400538] (-) TimerEvent: {}
+[0.500757] (-) TimerEvent: {}
+[0.601000] (-) TimerEvent: {}
+[0.701199] (-) TimerEvent: {}
+[0.734751] (p3_pkg) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', '-W', 'ignore:easy_install command is deprecated', 'setup.py', 'develop', '--editable', '--build-directory', '/workspace/practica_2/ros2_ws/build/p3_pkg/build', '--no-deps', 'symlink_data'], 'cwd': '/workspace/practica_2/ros2_ws/build/p3_pkg', 'env': {'HOSTNAME': 'PCcillo2', 'SHLVL': '0', 'LD_LIBRARY_PATH': '/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib', 'HOME': '/home/diego-docker', 'OLDPWD': '/workspace/practica_2', 'ROS_PYTHON_VERSION': '3', 'LC_CTYPE': 'C.UTF-8', 'ROS_DISTRO': 'humble', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'ROS_LOCALHOST_ONLY': '0', 'PATH': '/opt/ros/humble/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin', 'AMENT_PREFIX_PATH': '/opt/ros/humble', 'DEBIAN_FRONTEND': 'noninteractive', 'PWD': '/workspace/practica_2/ros2_ws/build/p3_pkg', 'PYTHONPATH': '/workspace/practica_2/ros2_ws/build/p3_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/workspace/practica_2/ros2_ws/install/p3_pkg/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages', 'TZ': 'Europe/Madrid', 'COLCON': '1'}, 'shell': False}
+[0.801326] (-) TimerEvent: {}
+[0.901530] (-) TimerEvent: {}
+[0.941451] (p3_pkg) StdoutLine: {'line': b'running develop\n'}
+[1.001680] (-) TimerEvent: {}
+[1.058495] (p3_pkg) StdoutLine: {'line': b'running egg_info\n'}
+[1.058630] (p3_pkg) StdoutLine: {'line': b'creating p3_pkg.egg-info\n'}
+[1.058861] (p3_pkg) StdoutLine: {'line': b'writing p3_pkg.egg-info/PKG-INFO\n'}
+[1.059124] (p3_pkg) StdoutLine: {'line': b'writing dependency_links to p3_pkg.egg-info/dependency_links.txt\n'}
+[1.059401] (p3_pkg) StdoutLine: {'line': b'writing entry points to p3_pkg.egg-info/entry_points.txt\n'}
+[1.059472] (p3_pkg) StdoutLine: {'line': b'writing requirements to p3_pkg.egg-info/requires.txt\n'}
+[1.059506] (p3_pkg) StdoutLine: {'line': b'writing top-level names to p3_pkg.egg-info/top_level.txt\n'}
+[1.059629] (p3_pkg) StdoutLine: {'line': b"writing manifest file 'p3_pkg.egg-info/SOURCES.txt'\n"}
+[1.060792] (p3_pkg) StdoutLine: {'line': b"reading manifest file 'p3_pkg.egg-info/SOURCES.txt'\n"}
+[1.061265] (p3_pkg) StdoutLine: {'line': b"writing manifest file 'p3_pkg.egg-info/SOURCES.txt'\n"}
+[1.063773] (p3_pkg) StdoutLine: {'line': b'running build_ext\n'}
+[1.064027] (p3_pkg) StdoutLine: {'line': b'Creating /workspace/practica_2/ros2_ws/install/p3_pkg/lib/python3.10/site-packages/p3-pkg.egg-link (link to .)\n'}
+[1.064606] (p3_pkg) StdoutLine: {'line': b'Installing movimiento script to /workspace/practica_2/ros2_ws/install/p3_pkg/lib/p3_pkg\n'}
+[1.065045] (p3_pkg) StdoutLine: {'line': b'\n'}
+[1.065304] (p3_pkg) StdoutLine: {'line': b'Installed /workspace/practica_2/ros2_ws/build/p3_pkg\n'}
+[1.065539] (p3_pkg) StdoutLine: {'line': b'running symlink_data\n'}
+[1.065645] (p3_pkg) StdoutLine: {'line': b'creating /workspace/practica_2/ros2_ws/install/p3_pkg/share/ament_index\n'}
+[1.065705] (p3_pkg) StdoutLine: {'line': b'creating /workspace/practica_2/ros2_ws/install/p3_pkg/share/ament_index/resource_index\n'}
+[1.065950] (p3_pkg) StdoutLine: {'line': b'creating /workspace/practica_2/ros2_ws/install/p3_pkg/share/ament_index/resource_index/packages\n'}
+[1.066009] (p3_pkg) StdoutLine: {'line': b'symbolically linking /workspace/practica_2/ros2_ws/build/p3_pkg/resource/p3_pkg -> /workspace/practica_2/ros2_ws/install/p3_pkg/share/ament_index/resource_index/packages\n'}
+[1.066044] (p3_pkg) StdoutLine: {'line': b'symbolically linking /workspace/practica_2/ros2_ws/build/p3_pkg/package.xml -> /workspace/practica_2/ros2_ws/install/p3_pkg/share/p3_pkg\n'}
+[1.087396] (p3_pkg) CommandEnded: {'returncode': 0}
+[1.101795] (-) TimerEvent: {}
+[1.104669] (p3_pkg) JobEnded: {'identifier': 'p3_pkg', 'rc': 0}
+[1.105243] (-) EventReactorShutdown: {}

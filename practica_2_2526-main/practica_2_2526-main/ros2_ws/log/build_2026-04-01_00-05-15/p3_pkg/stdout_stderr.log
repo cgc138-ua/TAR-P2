@@ -1,0 +1,22 @@
+running develop
+running egg_info
+creating p3_pkg.egg-info
+writing p3_pkg.egg-info/PKG-INFO
+writing dependency_links to p3_pkg.egg-info/dependency_links.txt
+writing entry points to p3_pkg.egg-info/entry_points.txt
+writing requirements to p3_pkg.egg-info/requires.txt
+writing top-level names to p3_pkg.egg-info/top_level.txt
+writing manifest file 'p3_pkg.egg-info/SOURCES.txt'
+reading manifest file 'p3_pkg.egg-info/SOURCES.txt'
+writing manifest file 'p3_pkg.egg-info/SOURCES.txt'
+running build_ext
+Creating /workspace/practica_2/ros2_ws/install/p3_pkg/lib/python3.10/site-packages/p3-pkg.egg-link (link to .)
+Installing movimiento script to /workspace/practica_2/ros2_ws/install/p3_pkg/lib/p3_pkg
+
+Installed /workspace/practica_2/ros2_ws/build/p3_pkg
+running symlink_data
+creating /workspace/practica_2/ros2_ws/install/p3_pkg/share/ament_index
+creating /workspace/practica_2/ros2_ws/install/p3_pkg/share/ament_index/resource_index
+creating /workspace/practica_2/ros2_ws/install/p3_pkg/share/ament_index/resource_index/packages
+symbolically linking /workspace/practica_2/ros2_ws/build/p3_pkg/resource/p3_pkg -> /workspace/practica_2/ros2_ws/install/p3_pkg/share/ament_index/resource_index/packages
+symbolically linking /workspace/practica_2/ros2_ws/build/p3_pkg/package.xml -> /workspace/practica_2/ros2_ws/install/p3_pkg/share/p3_pkg

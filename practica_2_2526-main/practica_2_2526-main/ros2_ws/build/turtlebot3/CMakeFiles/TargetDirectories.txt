@@ -1,0 +1,9 @@
+/workspace/practica_2/ros2_ws/build/turtlebot3/CMakeFiles/uninstall.dir
+/workspace/practica_2/ros2_ws/build/turtlebot3/CMakeFiles/turtlebot3_uninstall.dir
+/workspace/practica_2/ros2_ws/build/turtlebot3/CMakeFiles/test.dir
+/workspace/practica_2/ros2_ws/build/turtlebot3/CMakeFiles/edit_cache.dir
+/workspace/practica_2/ros2_ws/build/turtlebot3/CMakeFiles/rebuild_cache.dir
+/workspace/practica_2/ros2_ws/build/turtlebot3/CMakeFiles/list_install_components.dir
+/workspace/practica_2/ros2_ws/build/turtlebot3/CMakeFiles/install.dir
+/workspace/practica_2/ros2_ws/build/turtlebot3/CMakeFiles/install/local.dir
+/workspace/practica_2/ros2_ws/build/turtlebot3/CMakeFiles/install/strip.dir

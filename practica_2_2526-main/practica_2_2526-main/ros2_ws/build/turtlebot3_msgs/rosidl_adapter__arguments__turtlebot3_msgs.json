@@ -1,0 +1,12 @@
+{
+  "package_name": "turtlebot3_msgs",
+  "non_idl_tuples": [
+    "/workspace/practica_2/ros2_ws/src/turtlebot3_msgs:msg/SensorState.msg",
+    "/workspace/practica_2/ros2_ws/src/turtlebot3_msgs:msg/Sound.msg",
+    "/workspace/practica_2/ros2_ws/src/turtlebot3_msgs:msg/VersionInfo.msg",
+    "/workspace/practica_2/ros2_ws/src/turtlebot3_msgs:srv/Sound.srv",
+    "/workspace/practica_2/ros2_ws/src/turtlebot3_msgs:srv/Dqn.srv",
+    "/workspace/practica_2/ros2_ws/src/turtlebot3_msgs:srv/Goal.srv",
+    "/workspace/practica_2/ros2_ws/src/turtlebot3_msgs:action/Patrol.action"
+  ]
+}

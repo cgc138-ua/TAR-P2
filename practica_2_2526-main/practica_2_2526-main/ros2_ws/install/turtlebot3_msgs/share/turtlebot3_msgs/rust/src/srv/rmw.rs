@@ -1,0 +1,1 @@
+/workspace/practica_2/ros2_ws/build/turtlebot3_msgs/rosidl_generator_rs/turtlebot3_msgs/rust/src/srv/rmw.rs

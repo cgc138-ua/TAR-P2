@@ -1,0 +1,24 @@
+[0.735s] Invoking command in '/workspace/practica_2/ros2_ws/build/p3_pkg': PYTHONPATH=/workspace/practica_2/ros2_ws/build/p3_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/workspace/practica_2/ros2_ws/install/p3_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /workspace/practica_2/ros2_ws/build/p3_pkg/build --no-deps symlink_data
+[0.940s] running develop
+[1.057s] running egg_info
+[1.057s] creating p3_pkg.egg-info
+[1.058s] writing p3_pkg.egg-info/PKG-INFO
+[1.058s] writing dependency_links to p3_pkg.egg-info/dependency_links.txt
+[1.058s] writing entry points to p3_pkg.egg-info/entry_points.txt
+[1.058s] writing requirements to p3_pkg.egg-info/requires.txt
+[1.058s] writing top-level names to p3_pkg.egg-info/top_level.txt
+[1.058s] writing manifest file 'p3_pkg.egg-info/SOURCES.txt'
+[1.060s] reading manifest file 'p3_pkg.egg-info/SOURCES.txt'
+[1.060s] writing manifest file 'p3_pkg.egg-info/SOURCES.txt'
+[1.063s] running build_ext
+[1.063s] Creating /workspace/practica_2/ros2_ws/install/p3_pkg/lib/python3.10/site-packages/p3-pkg.egg-link (link to .)
+[1.063s] Installing movimiento script to /workspace/practica_2/ros2_ws/install/p3_pkg/lib/p3_pkg
+[1.064s] 
+[1.064s] Installed /workspace/practica_2/ros2_ws/build/p3_pkg
+[1.064s] running symlink_data
+[1.064s] creating /workspace/practica_2/ros2_ws/install/p3_pkg/share/ament_index
+[1.064s] creating /workspace/practica_2/ros2_ws/install/p3_pkg/share/ament_index/resource_index
+[1.065s] creating /workspace/practica_2/ros2_ws/install/p3_pkg/share/ament_index/resource_index/packages
+[1.065s] symbolically linking /workspace/practica_2/ros2_ws/build/p3_pkg/resource/p3_pkg -> /workspace/practica_2/ros2_ws/install/p3_pkg/share/ament_index/resource_index/packages
+[1.065s] symbolically linking /workspace/practica_2/ros2_ws/build/p3_pkg/package.xml -> /workspace/practica_2/ros2_ws/install/p3_pkg/share/p3_pkg
+[1.087s] Invoked command in '/workspace/practica_2/ros2_ws/build/p3_pkg' returned '0': PYTHONPATH=/workspace/practica_2/ros2_ws/build/p3_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/workspace/practica_2/ros2_ws/install/p3_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /workspace/practica_2/ros2_ws/build/p3_pkg/build --no-deps symlink_data

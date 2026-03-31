@@ -1,0 +1,1 @@
+/workspace/practica_2/ros2_ws/build/turtlebot3_navigation2/ament_cmake_core/turtlebot3_navigation2Config.cmake

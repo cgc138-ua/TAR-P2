@@ -1,0 +1,1 @@
+/workspace/practica_2/ros2_ws/src/turtlebot3_msgs/msg/VersionInfo.msg

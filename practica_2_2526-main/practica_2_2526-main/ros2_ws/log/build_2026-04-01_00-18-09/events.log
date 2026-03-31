@@ -1,0 +1,44 @@
+[0.000000] (-) TimerEvent: {}
+[0.000679] (-) JobUnselected: {'identifier': 'turtlebot3'}
+[0.000718] (-) JobUnselected: {'identifier': 'turtlebot3_bringup'}
+[0.000748] (-) JobUnselected: {'identifier': 'turtlebot3_cartographer'}
+[0.000778] (-) JobUnselected: {'identifier': 'turtlebot3_description'}
+[0.000807] (-) JobUnselected: {'identifier': 'turtlebot3_example'}
+[0.000836] (-) JobUnselected: {'identifier': 'turtlebot3_fake_node'}
+[0.000865] (-) JobUnselected: {'identifier': 'turtlebot3_gazebo'}
+[0.000894] (-) JobUnselected: {'identifier': 'turtlebot3_manipulation_gazebo'}
+[0.000924] (-) JobUnselected: {'identifier': 'turtlebot3_msgs'}
+[0.000953] (-) JobUnselected: {'identifier': 'turtlebot3_navigation2'}
+[0.000981] (-) JobUnselected: {'identifier': 'turtlebot3_node'}
+[0.001011] (-) JobUnselected: {'identifier': 'turtlebot3_simulations'}
+[0.001039] (-) JobUnselected: {'identifier': 'turtlebot3_teleop'}
+[0.001071] (p3_pkg) JobQueued: {'identifier': 'p3_pkg', 'dependencies': OrderedDict()}
+[0.001103] (p3_pkg) JobStarted: {'identifier': 'p3_pkg'}
+[0.099824] (-) TimerEvent: {}
+[0.200047] (-) TimerEvent: {}
+[0.300349] (-) TimerEvent: {}
+[0.400532] (-) TimerEvent: {}
+[0.500763] (-) TimerEvent: {}
+[0.517196] (p3_pkg) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', '-W', 'ignore:easy_install command is deprecated', 'setup.py', 'develop', '--editable', '--build-directory', '/workspace/practica_2/ros2_ws/build/p3_pkg/build', '--no-deps', 'symlink_data'], 'cwd': '/workspace/practica_2/ros2_ws/build/p3_pkg', 'env': {'HOSTNAME': 'PCcillo2', 'SHLVL': '0', 'LD_LIBRARY_PATH': '/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib', 'HOME': '/home/diego-docker', 'OLDPWD': '/workspace/practica_2', 'ROS_PYTHON_VERSION': '3', 'LC_CTYPE': 'C.UTF-8', 'ROS_DISTRO': 'humble', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'ROS_LOCALHOST_ONLY': '0', 'PATH': '/opt/ros/humble/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin', 'AMENT_PREFIX_PATH': '/opt/ros/humble', 'DEBIAN_FRONTEND': 'noninteractive', 'PWD': '/workspace/practica_2/ros2_ws/build/p3_pkg', 'PYTHONPATH': '/workspace/practica_2/ros2_ws/build/p3_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/workspace/practica_2/ros2_ws/install/p3_pkg/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages', 'TZ': 'Europe/Madrid', 'COLCON': '1'}, 'shell': False}
+[0.600918] (-) TimerEvent: {}
+[0.701103] (-) TimerEvent: {}
+[0.719050] (p3_pkg) StdoutLine: {'line': b'running develop\n'}
+[0.801334] (-) TimerEvent: {}
+[0.837072] (p3_pkg) StdoutLine: {'line': b'running egg_info\n'}
+[0.837207] (p3_pkg) StdoutLine: {'line': b'writing p3_pkg.egg-info/PKG-INFO\n'}
+[0.837483] (p3_pkg) StdoutLine: {'line': b'writing dependency_links to p3_pkg.egg-info/dependency_links.txt\n'}
+[0.837648] (p3_pkg) StdoutLine: {'line': b'writing entry points to p3_pkg.egg-info/entry_points.txt\n'}
+[0.837821] (p3_pkg) StdoutLine: {'line': b'writing requirements to p3_pkg.egg-info/requires.txt\n'}
+[0.837884] (p3_pkg) StdoutLine: {'line': b'writing top-level names to p3_pkg.egg-info/top_level.txt\n'}
+[0.839451] (p3_pkg) StdoutLine: {'line': b"reading manifest file 'p3_pkg.egg-info/SOURCES.txt'\n"}
+[0.840017] (p3_pkg) StdoutLine: {'line': b"writing manifest file 'p3_pkg.egg-info/SOURCES.txt'\n"}
+[0.841752] (p3_pkg) StdoutLine: {'line': b'running build_ext\n'}
+[0.841830] (p3_pkg) StdoutLine: {'line': b'Creating /workspace/practica_2/ros2_ws/install/p3_pkg/lib/python3.10/site-packages/p3-pkg.egg-link (link to .)\n'}
+[0.842697] (p3_pkg) StdoutLine: {'line': b'Installing dibuja_mov script to /workspace/practica_2/ros2_ws/install/p3_pkg/lib/p3_pkg\n'}
+[0.843103] (p3_pkg) StdoutLine: {'line': b'Installing movimiento script to /workspace/practica_2/ros2_ws/install/p3_pkg/lib/p3_pkg\n'}
+[0.843614] (p3_pkg) StdoutLine: {'line': b'\n'}
+[0.843688] (p3_pkg) StdoutLine: {'line': b'Installed /workspace/practica_2/ros2_ws/build/p3_pkg\n'}
+[0.843736] (p3_pkg) StdoutLine: {'line': b'running symlink_data\n'}
+[0.866000] (p3_pkg) CommandEnded: {'returncode': 0}
+[0.875566] (p3_pkg) JobEnded: {'identifier': 'p3_pkg', 'rc': 0}
+[0.876204] (-) EventReactorShutdown: {}

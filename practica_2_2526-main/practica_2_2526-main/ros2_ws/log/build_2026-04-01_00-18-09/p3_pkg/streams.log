@@ -1,0 +1,18 @@
+[0.517s] Invoking command in '/workspace/practica_2/ros2_ws/build/p3_pkg': PYTHONPATH=/workspace/practica_2/ros2_ws/build/p3_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/workspace/practica_2/ros2_ws/install/p3_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /workspace/practica_2/ros2_ws/build/p3_pkg/build --no-deps symlink_data
+[0.718s] running develop
+[0.836s] running egg_info
+[0.836s] writing p3_pkg.egg-info/PKG-INFO
+[0.836s] writing dependency_links to p3_pkg.egg-info/dependency_links.txt
+[0.837s] writing entry points to p3_pkg.egg-info/entry_points.txt
+[0.837s] writing requirements to p3_pkg.egg-info/requires.txt
+[0.837s] writing top-level names to p3_pkg.egg-info/top_level.txt
+[0.838s] reading manifest file 'p3_pkg.egg-info/SOURCES.txt'
+[0.839s] writing manifest file 'p3_pkg.egg-info/SOURCES.txt'
+[0.841s] running build_ext
+[0.841s] Creating /workspace/practica_2/ros2_ws/install/p3_pkg/lib/python3.10/site-packages/p3-pkg.egg-link (link to .)
+[0.842s] Installing dibuja_mov script to /workspace/practica_2/ros2_ws/install/p3_pkg/lib/p3_pkg
+[0.842s] Installing movimiento script to /workspace/practica_2/ros2_ws/install/p3_pkg/lib/p3_pkg
+[0.843s] 
+[0.843s] Installed /workspace/practica_2/ros2_ws/build/p3_pkg
+[0.843s] running symlink_data
+[0.865s] Invoked command in '/workspace/practica_2/ros2_ws/build/p3_pkg' returned '0': PYTHONPATH=/workspace/practica_2/ros2_ws/build/p3_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/workspace/practica_2/ros2_ws/install/p3_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /workspace/practica_2/ros2_ws/build/p3_pkg/build --no-deps symlink_data
